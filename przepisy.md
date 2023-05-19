@@ -2,7 +2,7 @@
 ## NIC PROSTSZEGO
 
 Najważniejsze w pizzy krysowej wcale nie jest ciasto, a mąka z jakiej to ciasto jest zrobione. Dlatego najistotniejsza zasada jaka nami kieruje wypiekaniu pizzy to
-"Im tańsza mąka tym lepsza pizza".
+"Im tańsza mąka tym lepsza pizza". ~Antoni Panorama
 
 Składniki na ciasto:
 1. 100 g świeżych drożdży
