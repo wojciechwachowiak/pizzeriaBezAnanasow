@@ -16,6 +16,8 @@
 
 ## BURGERY
 
+<img src="img/ilya-mashkov-mkVa2hLJgnI-unsplash.jpg" width=400>
+
 |  |Burger                                                                                              |Cena:  |
 |--|----------------------------------------------------------------------------------------------------|-------|
 |1.| Manhattan (boczek, ser chedar, ogórek konserwowy, cebula, sałata, sos BBG, majonez)                |  24zł |
