@@ -5,7 +5,7 @@
 
 Przyjedziemy najszybciej jak się da...  
 
-Jeśli z kolei chcesz zjeść na miejscu zapraszamy na ulice Truskawkową 17 w Zamościu Małomiejskim.  
+Jeśli z kolei chcesz zjeść na miejscu zapraszamy na ulice *Truskawkową 17* w Zamościu Małomiejskim.  
 
 Dodatkowo szukamy pracownika na stanowisko stróża nocnego, otwartego na ciągły rozwój i poznawanie nowych umiejętności.  
 Jeśli jesteś zainteresowany prześlij CV na adres: example@gmail.com
