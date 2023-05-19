@@ -16,6 +16,8 @@
 
 ## SOSY
 
+<img src="img/dennis-klein-FzB_512zvP0-unsplash.jpg" width=400>
+
 |  |Sos            |Cena:  |
 |--|---------------|-------|
 |1.| Czosnkowy     |  4zł  |
@@ -27,6 +29,8 @@
 
 
 ## NAPOJE
+
+<img src="img/blake-wisz-X6aY_j6JD_Y-unsplash.jpg" width=400>
 
 |  |Napoje          |Cena:  |
 |--|----------------|-------|
