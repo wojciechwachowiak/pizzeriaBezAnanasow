@@ -5,7 +5,7 @@
 
 |  |Pizza                                                                                       |Rozmiar:     | mała | średnia | duża |
 |--|--------------------------------------------------------------------------------------------|-------------|------|---------|------|
-|1.| Kryzysowa (ketchup, szynka, ser, średni rozmiar do tego śrendia w smaku)                   |             |   -  |   12zł  |  -   |
+|1.| Kryzysowa (ketchup, szynka, ser, średni rozmiar do tego średnia w smaku)                   |             |   -  |   12zł  |  -   |
 |2.| Marinara (polpa pomidorowa, czosnek, oregano, oliwa z oliwek)                              |             | 22zł |    -    | 26zł |
 |3.| Margherita (polpa pomidorowa, mozarella, bazylia)                                          |             | 22zł |    -    | 26zł |
 |4.| Funghi (polpa pomidorowa, mozarella, grzyby tymianek)                                      |             | 24zł |    -    | 30zł |
