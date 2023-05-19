@@ -8,5 +8,6 @@
 Przyjedziemy najszybciej jak się da...  
 
 
-Dodatkowo szukamy pracownika na stanowisko stróża nocnego, otwartego na ciągły rozwój i poznawanie nowych umiejętności.  
+# UWAGA
+## Szukamy pracownika na stanowisko stróża nocnego, otwartego na ciągły rozwój i poznawanie nowych umiejętności.  
 Jeśli jesteś zainteresowany prześlij CV na adres: example@gmail.com
