@@ -14,16 +14,11 @@
 
 ## NAPOJE
 
-1. Coca Cola
-2. Pepsi
-3. Fanta
-4. Mirinda
-5. Sprite
-6. Woda mineralna  
-
-
-
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+|  |Napoje          |Cena:  |
+|--|----------------|-------|
+|1.|Coca Cola       |  9zł  |
+|2.|Pepsi           |  8zł  |
+|3.|Fanta           |  7zł  |
+|4.|Mirinda         |  8zł  |
+|5.|Sprite          |  7zł  |
+|6.|Woda mineralna  |  5zł  |
