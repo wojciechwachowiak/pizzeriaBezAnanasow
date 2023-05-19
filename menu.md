@@ -1,7 +1,7 @@
 # MENU
 ## PIZZE
 
-<img src="img/kelvin-t-AcA8moIiD3g-unsplash.jpg" width=400>
+<img src="img/kelvin-t-AcA8moIiD3g-unsplash.jpg" width=420>
 
 |  |Pizza                                                                                       |Rozmiar:     | mała | średnia | duża |
 |--|--------------------------------------------------------------------------------------------|-------------|------|---------|------|
@@ -16,7 +16,7 @@
 
 ## BURGERY
 
-<img src="img/ilya-mashkov-mkVa2hLJgnI-unsplash.jpg" width=400>
+<img src="img/ilya-mashkov-mkVa2hLJgnI-unsplash.jpg" width=420>
 
 |  |Burger                                                                                              |Cena:  |
 |--|----------------------------------------------------------------------------------------------------|-------|
@@ -28,7 +28,7 @@
 
 ## SOSY
 
-<img src="img/dennis-klein-FzB_512zvP0-unsplash.jpg" width=400>
+<img src="img/dennis-klein-FzB_512zvP0-unsplash.jpg" width=420>
 
 |  |Sos            |Cena:  |
 |--|---------------|-------|
@@ -42,7 +42,7 @@
 
 ## NAPOJE
 
-<img src="img/blake-wisz-X6aY_j6JD_Y-unsplash.jpg" width=400>
+<img src="img/blake-wisz-X6aY_j6JD_Y-unsplash.jpg" width=420>
 
 |  |Napoje          |Cena:  |
 |--|----------------|-------|
