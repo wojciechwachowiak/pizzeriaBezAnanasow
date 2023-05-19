@@ -16,10 +16,12 @@
 
 ## BURGERY
 
-1. Manhattan (boczek, ser chedar, ogórek konserwowy, cebula, sałata, sos BBG, majonez)
-2. Chilli (nachosy, chutney z cebulą, rukola, sos guacamole, sos chili)
-3. Popeye (mozarella, suszone pomidory, migdały, szalotka, szpinak, sos koperkowy)
-4. Ogrodnik (mozarella, cukinia, pomidor, cebula(dużo cebuli), szpinak, sos guacamole, sos koperkowy)
+|  |Burger                                                                                              |Cena:  |
+|--|----------------------------------------------------------------------------------------------------|-------|
+|1.| Manhattan (boczek, ser chedar, ogórek konserwowy, cebula, sałata, sos BBG, majonez)                |  24zł |
+|2.| Chilli (nachosy, chutney z cebulą, rukola, sos guacamole, sos chili)                               |  22zł |
+|3.| Popeye (mozarella, suszone pomidory, migdały, szalotka, szpinak, sos koperkowy)                    |  26zł |
+|4.| Ogrodnik (mozarella, cukinia, pomidor, cebula(dużo cebuli), szpinak, sos guacamole, sos koperkowy) |  27zł |
 
 
 ## SOSY
