@@ -1,7 +1,9 @@
 # MENU
 ## PIZZE
 
-|  |Pizza                                                                                       |rozmiar:     | mała | średnia | duża |
+<img src="img/kelvin-t-AcA8moIiD3g-unsplash.jpg" width=400>
+
+|  |Pizza                                                                                       |Rozmiar:     | mała | średnia | duża |
 |--|--------------------------------------------------------------------------------------------|-------------|------|---------|------|
 |1.| Kryzysowa (ketchup, szynka, ser, średni rozmiar do tego śrendia w smaku)                   |             |   -  |   12zł  |  -   |
 |2.| Marinara (polpa pomidorowa, czosnek, oregano, oliwa z oliwek)                              |             | 22zł |    -    | 26zł |
@@ -11,6 +13,18 @@
 |6.| Bianca (sos bianco, mozarella, boczek pancetta, szpinak, czosnek)                          |             | 28zł |    -    | 32zł |
 |7.| Mexicana (**JALAPENO**) (polpa pomidorowa, mozarella, cebula, szynka, papryka **jalapeno**)|             | 22zł |    -    | 26zł |
 |8.| Kebab (polpa pomidorowa, mozarella, mieso wołowe, rukola, pomidorki koktajlowe, parmezan)  |             | 26zł |    -    | 30zł |
+
+## SOSY
+
+|  |Sos            |Cena:  |
+|--|---------------|-------|
+|1.| Czosnkowy     |  4zł  |
+|2.| Ostry         |  5zł  |
+|3.| Bardzo Ostry  |  5zł  |
+|4.| Ketchup       |  3zł  |
+|5.| Tysiąca Wysp  |  4zł  |
+|6.| Majonezowy    |  5zł  |
+
 
 ## NAPOJE
 
