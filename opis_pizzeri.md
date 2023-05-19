@@ -6,6 +6,7 @@ dlatego zrezygnowałem z kupna dobra luksusowego jakim był wtedy ananas. Wtedy 
 a ja robiłem pizze jedna za drugą, a potem jeszcze trzecią, aż kończyła się mąka, wtedy szedłem kupić nową, 
 a kiedy docierałem do sklepu przechodziłem obok ananasów niewzruszony, brałem za to to co najważniejsze 
 w pizzy czyli mąke. Na podstawie tego jednego składnika opracowałem moją popisową pizzę, "Pizze Kryzysową", którą serwujemy po dziś dzień.
+Ponadto w roku 2023 postanowiliśmy wprowadzić do oferty burgery celem urozmaicenia doświadczeń możliwych do wyniesienia z naszego lokalu.
 
 <img src="img/aziz-acharki-alANOC4E8iM-unsplash.jpg" width="200">  
 

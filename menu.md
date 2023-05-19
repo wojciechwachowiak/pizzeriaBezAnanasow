@@ -14,6 +14,18 @@
 |7.| Mexicana (**JALAPENO**) (polpa pomidorowa, mozarella, cebula, szynka, papryka **jalapeno**)|             | 22zł |    -    | 26zł |
 |8.| Kebab (polpa pomidorowa, mozarella, mieso wołowe, rukola, pomidorki koktajlowe, parmezan)  |             | 26zł |    -    | 30zł |
 
+## BURGERY
+
+<img src="img/ilya-mashkov-mkVa2hLJgnI-unsplash.jpg" width=400>
+
+|  |Burger                                                                                              |Cena:  |
+|--|----------------------------------------------------------------------------------------------------|-------|
+|1.| Manhattan (boczek, ser chedar, ogórek konserwowy, cebula, sałata, sos BBG, majonez)                |  24zł |
+|2.| Chilli (nachosy, chutney z cebulą, rukola, sos guacamole, sos chili)                               |  22zł |
+|3.| Popeye (mozarella, suszone pomidory, migdały, szalotka, szpinak, sos koperkowy)                    |  26zł |
+|4.| Ogrodnik (mozarella, cukinia, pomidor, cebula(dużo cebuli), szpinak, sos guacamole, sos koperkowy) |  27zł |
+
+
 ## SOSY
 
 <img src="img/dennis-klein-FzB_512zvP0-unsplash.jpg" width=400>
